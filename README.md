@@ -42,7 +42,7 @@ std::map<std::string, int> dict = zip(k, v);
 **Прототип:**
 ```cc
 std::map<std::string, int> zip(const std::vector<std::string>& keys,
-                               const std::vector<int> values);
+                               const std::vector<int>& values);
 ```
 
 ### Задание 4
