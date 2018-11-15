@@ -59,7 +59,7 @@ clear(words);
 
 **Прототип:**
 ```cc
-void zip(std::list<int>& numers);
+void clear(std::list<int>& numers);
 ```
 
 ### Задание 5
